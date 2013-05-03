@@ -1,0 +1,14 @@
+﻿StockID
+ {
+     padding: 0 40px 0 40px;
+     color:   Green;
+     display: block;
+     font-weight: bold;
+ }
+ 
+ Description
+ {
+     color:   Red;
+     display: block;
+     font-weight: bold;
+ }

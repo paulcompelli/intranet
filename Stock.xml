@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Stock>
+    <StockID>A147</StockID>
+    <Description>Social Media</Description>
+    <Stock_level>13</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>A425</StockID>
+    <Description>Social Media</Description>
+    <Stock_level>5</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>B325</StockID>
+    <Description>e-Marketing</Description>
+    <Stock_level>4</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>C148</StockID>
+    <Description>e-Commerce</Description>
+    <Stock_level>7</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>D325</StockID>
+    <Description>e-Commerce</Description>
+    <Stock_level>11</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>E144</StockID>
+    <Description>Digital Marketing</Description>
+    <Stock_level>25</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>F114</StockID>
+    <Description>Team Building</Description>
+    <Stock_level>4</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>F456</StockID>
+    <Description>Team Building</Description>
+    <Stock_level>18</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>G365</StockID>
+    <Description>Meetings</Description>
+    <Stock_level>25</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>G556</StockID>
+    <Description>Motivation</Description>
+    <Stock_level>14</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>G698</StockID>
+    <Description>Powerpoint</Description>
+    <Stock_level>23</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>H145</StockID>
+    <Description>SEO</Description>
+    <Stock_level>25</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>H667</StockID>
+    <Description>SEO</Description>
+    <Stock_level>24</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>R124</StockID>
+    <Description>Internet</Description>
+    <Stock_level>16</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>R236</StockID>
+    <Description>Programming</Description>
+    <Stock_level>2</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>T214</StockID>
+    <Description>jQuery</Description>
+    <Stock_level>8</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>W197</StockID>
+    <Description>Javascript</Description>
+    <Stock_level>22</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>Y336</StockID>
+    <Description>HTML</Description>
+    <Stock_level>6</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>Y542</StockID>
+    <Description>Web Design</Description>
+    <Stock_level>18</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>Z668</StockID>
+    <Description>Web Design</Description>
+    <Stock_level>9</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>S197</StockID>
+    <Description>Twitter for Business</Description>
+    <Stock_level>7</Stock_level>
+  </Stock>
+</NewDataSet>
